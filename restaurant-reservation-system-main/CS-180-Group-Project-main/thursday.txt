@@ -1,0 +1,72 @@
+N/A,1,2,N/A,No,11,No,Not Needed,0
+N/A,2,2,N/A,No,11,No,Not Needed,0
+N/A,3,2,N/A,No,11,No,Not Needed,0
+N/A,4,4,N/A,No,11,No,Not Needed,0
+N/A,5,4,N/A,No,11,No,Not Needed,0
+N/A,6,4,N/A,No,11,No,Not Needed,0
+N/A,7,4,N/A,No,11,No,Not Needed,0
+N/A,8,8,N/A,Yes,11,No,N/A,0
+N/A,1,2,N/A,No,12,No,Not Needed,0
+N/A,2,2,N/A,No,12,No,Not Needed,0
+N/A,3,2,N/A,No,12,No,Not Needed,0
+N/A,4,4,N/A,No,12,No,Not Needed,0
+N/A,5,4,N/A,No,12,No,Not Needed,0
+N/A,6,4,N/A,No,12,No,Not Needed,0
+N/A,7,4,N/A,No,12,No,Not Needed,0
+N/A,8,8,N/A,Yes,12,No,N/A,0
+N/A,1,2,N/A,No,13,No,Not Needed,0
+N/A,2,2,N/A,No,13,No,Not Needed,0
+N/A,3,2,N/A,No,13,No,Not Needed,0
+N/A,4,4,N/A,No,13,No,Not Needed,0
+N/A,5,4,N/A,No,13,No,Not Needed,0
+N/A,6,4,N/A,No,13,No,Not Needed,0
+N/A,7,4,N/A,No,13,No,Not Needed,0
+N/A,8,8,N/A,Yes,13,No,N/A,0
+N/A,1,2,N/A,No,14,No,Not Needed,0
+N/A,2,2,N/A,No,14,No,Not Needed,0
+N/A,3,2,N/A,No,14,No,Not Needed,0
+N/A,4,4,N/A,No,14,No,Not Needed,0
+N/A,5,4,N/A,No,14,No,Not Needed,0
+N/A,6,4,N/A,No,14,No,Not Needed,0
+N/A,7,4,N/A,No,14,No,Not Needed,0
+N/A,8,8,N/A,Yes,14,No,N/A,0
+N/A,1,2,N/A,No,17,No,Not Needed,0
+N/A,2,2,N/A,No,17,No,Not Needed,0
+N/A,3,2,N/A,No,17,No,Not Needed,0
+N/A,4,4,N/A,No,17,No,Not Needed,0
+N/A,5,4,N/A,No,17,No,Not Needed,0
+N/A,6,4,N/A,No,17,No,Not Needed,0
+N/A,7,4,N/A,No,17,No,Not Needed,0
+N/A,8,8,N/A,Yes,17,No,N/A,0
+N/A,1,2,N/A,No,18,No,Not Needed,0
+N/A,2,2,N/A,No,18,No,Not Needed,0
+N/A,3,2,N/A,No,18,No,Not Needed,0
+N/A,4,4,N/A,No,18,No,Not Needed,0
+N/A,5,4,N/A,No,18,No,Not Needed,0
+N/A,6,4,N/A,No,18,No,Not Needed,0
+N/A,7,4,N/A,No,18,No,Not Needed,0
+N/A,8,8,N/A,Yes,18,No,N/A,0
+N/A,1,2,N/A,No,19,No,Not Needed,0
+N/A,2,2,N/A,No,19,No,Not Needed,0
+N/A,3,2,N/A,No,19,No,Not Needed,0
+N/A,4,4,N/A,No,19,No,Not Needed,0
+N/A,5,4,N/A,No,19,No,Not Needed,0
+N/A,6,4,N/A,No,19,No,Not Needed,0
+N/A,7,4,N/A,No,19,No,Not Needed,0
+N/A,8,8,N/A,Yes,19,No,N/A,0
+N/A,1,2,N/A,No,20,No,Not Needed,0
+N/A,2,2,N/A,No,20,No,Not Needed,0
+N/A,3,2,N/A,No,20,No,Not Needed,0
+N/A,4,4,N/A,No,20,No,Not Needed,0
+N/A,5,4,N/A,No,20,No,Not Needed,0
+N/A,6,4,N/A,No,20,No,Not Needed,0
+N/A,7,4,N/A,No,20,No,Not Needed,0
+N/A,8,8,N/A,Yes,20,No,N/A,0
+N/A,1,2,N/A,No,21,No,Not Needed,0
+N/A,2,2,N/A,No,21,No,Not Needed,0
+N/A,3,2,N/A,No,21,No,Not Needed,0
+N/A,4,4,N/A,No,21,No,Not Needed,0
+N/A,5,4,N/A,No,21,No,Not Needed,0
+N/A,6,4,N/A,No,21,No,Not Needed,0
+N/A,7,4,N/A,No,21,No,Not Needed,0
+N/A,8,8,N/A,Yes,21,No,N/A,0
